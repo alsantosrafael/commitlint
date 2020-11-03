@@ -79,7 +79,7 @@
   "devDependencies": {
     "@lerna/project": "3.21.0",
     "@types/jest": "26.0.15",
-    "@types/node": "12.19.3",
+    "@types/node": "12.19.1",
     "@typescript-eslint/eslint-plugin": "^4.1.0",
     "@typescript-eslint/parser": "^4.1.0",
     "docsify-cli": "^4.4.0",
@@ -88,13 +88,13 @@
     "eslint-plugin-import": "^2.20.1",
     "eslint-plugin-jest": "^24.0.0",
     "husky": "4.3.0",
-    "jest": "25.1.0",
+    "jest": "25.5.4",
     "lerna": "^3.22.1",
     "lerna-v3": "npm:lerna@3",
-    "lint-staged": "10.5.1",
+    "lint-staged": "10.4.2",
     "prettier": "^2.0.5",
-    "ts-jest": "26.4.3",
-    "typescript": "4.0.5"
+    "ts-jest": "26.4.2",
+    "typescript": "4.0.3"
   },
   "husky": {
     "hooks": {
